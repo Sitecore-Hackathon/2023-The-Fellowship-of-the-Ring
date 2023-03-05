@@ -1,0 +1,23 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "TFRHackaton2023",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/Templates/Project/TFRHackaton2023",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "contentRoot",
+                "path": "/sitecore/content",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/Media Library/Project/TFRHackaton2023",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}

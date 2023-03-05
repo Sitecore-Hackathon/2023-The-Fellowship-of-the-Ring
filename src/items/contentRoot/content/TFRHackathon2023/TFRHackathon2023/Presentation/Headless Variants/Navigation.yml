@@ -1,0 +1,39 @@
+﻿---
+ID: "45d7fddd-798c-429a-9651-c3aed8d9119f"
+Parent: "4ce8440a-f340-4099-aae2-923a3deb0f32"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/TFRHackathon2023/TFRHackathon2023/Presentation/Headless Variants/Navigation
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/signpost.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T074525Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1943e9e9-e311-42b1-a126-4813a654c64b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T074525Z

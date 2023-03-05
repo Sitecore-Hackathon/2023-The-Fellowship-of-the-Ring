@@ -1,0 +1,40 @@
+﻿---
+ID: "f2e0d74f-ba10-4d55-b7b5-e884a6f16a88"
+Parent: "6e89c9da-1310-4087-a78f-d36fbcfc6a1b"
+Template: "6e89c9da-1310-4087-a78f-d36fbcfc6a1b"
+Path: /sitecore/templates/Project/TFRHackaton2023/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6E89C9DA-1310-4087-A78F-D36FBCFC6A1B}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T074454Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b373fa5-9204-41d4-aa60-8351e881dbb7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "bfc50f55-a4be-4875-8060-4c43b5d943d1"
+      Hint: Title
+      Value: $name
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T074503Z

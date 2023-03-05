@@ -1,0 +1,31 @@
+﻿---
+ID: "4b0e43ad-87e7-4d2e-b826-839c7bdcdb9b"
+Parent: "60de5d84-edce-4402-a3e0-3af18a14ce2d"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/TFRHackathon2023/TFRHackathon2023/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T074524Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0fe430d-20d9-4345-8a30-8c27f8a2d201"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T074524Z

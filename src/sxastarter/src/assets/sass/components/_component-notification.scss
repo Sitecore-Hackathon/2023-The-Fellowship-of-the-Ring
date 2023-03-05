@@ -1,0 +1,40 @@
+.component.notification {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  width: 400px;
+  
+  .component-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    h3 {
+      margin: 0;
+      font-size: 1.5rem;
+    }
+    
+    p {
+      margin: 0;
+      font-size: 1.25rem;
+      color: #555;
+    }
+    
+    a {
+      margin-left: 1.25rem;
+      color: #555;
+      text-decoration: none;
+      
+      svg {
+        width: 1.2rem;
+        height: 1.2rem;
+      }
+    }
+  }
+}

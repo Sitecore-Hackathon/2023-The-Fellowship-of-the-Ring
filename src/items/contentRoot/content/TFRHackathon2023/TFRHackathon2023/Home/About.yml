@@ -1,0 +1,68 @@
+﻿---
+ID: "522ad202-2b21-4ef4-b3f2-6e61c37cdbfe"
+Parent: "3eab9c83-fb0e-4b30-95b4-c8029d64134e"
+Template: "6e89c9da-1310-4087-a78f-d36fbcfc6a1b"
+Path: /sitecore/content/TFRHackathon2023/TFRHackathon2023/Home/About
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{90BAB90D-65BE-47C5-B5D5-6A2140212A28}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D0A18D1E-0298-4A3C-BF5B-DE79062BF5F8}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b71CB524E-1AEA-482C-8330-D1377011B868%7d%7c%7b3FEE3973-6A91-4846-87F4-D0C9AD81A848%7d%7c%7bFBEAAFEC-E27C-4DF7-A2FD-961FC915ED4B%7d%7c%7b8C37CBA8-F952-4846-A0D6-82DDCE924D35%7d%7c%7b35020FE3-3D3E-4CBB-AA82-6B1EE0E32197%7d%7c%7b4F669CD7-3EAE-4EE9-86F7-6335192D23EE%7d%7c%7b68D71CC6-45AA-41A5-B4EE-DBB7A0A3F028%7d%7c%7b370B7D61-E670-4961-BC14-B702F76957A7%7d%7c%7b0B553A06-F9E3-4DE2-9641-969100A8D2C6%7d%7c%7b21A4D184-0B5D-43C4-B7F3-1B693CCBD0AF%7d%7c%7b82E1E392-099D-423F-8CF4-590BD7B40804%7d%7c%7b35208BE3-8770-47AA-8CF1-EF940E9AD99D%7d%7c%7b57B8CF67-558B-4569-8185-3F791ADD936B%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{D0938017-2E3B-4F22-8B15-E94ACFD0522F}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b4090040A-4289-42F9-BDE1-9F5954DB30F8%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T074538Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "760e7121-947e-48f3-8702-b142d5c12f9d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "bfc50f55-a4be-4875-8060-4c43b5d943d1"
+      Hint: Title
+      Value: About
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T074640Z

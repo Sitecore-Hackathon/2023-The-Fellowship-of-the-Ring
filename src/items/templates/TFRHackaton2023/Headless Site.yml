@@ -1,0 +1,45 @@
+﻿---
+ID: "eb16d5ff-19b6-485f-9792-ef5df9d1d01c"
+Parent: "b227d2b5-495c-463b-9039-b21c148f0940"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/TFRHackaton2023/Headless Site
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_star.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {9ED66404-64C9-4122-90E1-869CB3CEA566}
+    {DCB42A80-68C9-46F9-B036-BC44A27D96FE}
+    {448108A3-CEA9-42E3-A86C-2D2BD325870E}
+    {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{A83C4BBF-26D5-406C-BA90-63E310EE82A1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T074455Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c39cd7b7-61ad-4dc5-bef1-d7fa351d7598"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\frueda@oshyn.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T074502Z
